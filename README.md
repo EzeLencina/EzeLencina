@@ -31,9 +31,11 @@ Actualmente trabajo con proyectos de comercio electrónico, WordPress, WooCommer
 - SEO técnico y marketing digital.
 - Herramientas de inteligencia artificial aplicadas al desarrollo.
 
-### 📊 GitHub
+### 📊 Mis estadísticas de GitHub
 
+![Estadísticas](https://raw.githubusercontent.com/EzeLencina/EzeLencina/main/profile-summary-card-output/github_dark/3-stats.svg)
 
+![Lenguajes](https://raw.githubusercontent.com/EzeLencina/EzeLencina/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 ### 🤝 Conectemos
 
